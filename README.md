@@ -4,7 +4,7 @@ There are 6 course projects designed around the Earth and Grass Operating System
 
 The projects start with basic concepts like memory and unprivileged ISA. And then introduce new OS and architecture concepts step-by-step.&#x20;
 
-| Description                                      | OS concept                                                    | Architecture concept                                 |
+| Projects                                         | OS concepts                                                   | Architecture concepts                                |
 | ------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------- |
 | P0: Queue                                        | pointer                                                       | memory, memory address                               |
 | P1: User-level Threading                         | context switch, thread, synchronization                       | unprivileged ISA, stack pointer, instruction pointer |
