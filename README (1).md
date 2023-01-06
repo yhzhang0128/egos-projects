@@ -1,5 +1,5 @@
 ---
-description: Get familiar with the C programming language with the queue data structure
+description: Get familiar with the C programming language using the queue data structure
 ---
 
 # P0: Queue
