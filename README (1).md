@@ -61,3 +61,4 @@ C debugger, GDB: https://www.gnu.org/software/gdb/
 
 Have fun!
 
+Starter code: [https://github.com/yhzhang0128/egos-projects/blob/main/files/queue.zip](files/queue.zip)
