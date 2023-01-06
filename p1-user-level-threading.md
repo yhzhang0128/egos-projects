@@ -1,5 +1,5 @@
 ---
-description: Get familiar with threads and synchronization using unprivileged ISA
+description: Non-preemptive threading with standard, unprivileged CPU instructions
 ---
 
 # P1: User-level Threading
