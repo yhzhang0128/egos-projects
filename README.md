@@ -2,7 +2,7 @@
 
 There are 6 course projects designed around the Earth and Grass Operating System.&#x20;
 
-The projects start with basic architecture concepts like memory and unprivileged ISA. And then introduce new OS and architecture concepts step-by-step.&#x20;
+The projects start with basic concepts like memory and unprivileged ISA. And then introduce new OS and architecture concepts step-by-step.&#x20;
 
 | Description                                      | OS concept                                                    | Architecture concept                                 |
 | ------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------- |
