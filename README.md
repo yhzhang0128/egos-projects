@@ -6,7 +6,7 @@ The projects start with basic concepts like memory and unprivileged ISA. And the
 
 | Projects                                         | OS concepts                                    | Architecture concepts                                |
 | ------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------------- |
-| P0: Queue                                        | pointer                                        | memory, memory address                               |
+| P0: Queue                                        | pointer in C                                   | memory, memory address                               |
 | P1: User-level Threading                         | context switch, thread, synchronization        | unprivileged ISA, stack pointer, instruction pointer |
 | P2: Multi-level Feedback Queue                   | preemptive scheduling                          | timer interrupt                                      |
 | P3: Memory Exception, Protection and Translation | exception, system call, page table translation | control and status registers, privilege levels       |
