@@ -1,5 +1,7 @@
 ---
-description: Non-preemptive threading with standard, unprivileged CPU instructions
+description: >-
+  Get familiar with threads and synchronization with unprivileged CPU
+  instructions
 ---
 
 # P1: User-level Threading
